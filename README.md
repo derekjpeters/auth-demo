@@ -31,6 +31,7 @@ cd auth-demo
 
 ```bash
 npm install
+npm bcryptjs cors dotenv
 ```
 
 ### 3. Run the Server
